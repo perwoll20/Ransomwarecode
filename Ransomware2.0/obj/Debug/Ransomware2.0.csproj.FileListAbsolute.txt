@@ -1,0 +1,10 @@
+C:\Users\adamk\source\repos\Ransomware2.0\bin\Debug\Ransomware2.0.exe.config
+C:\Users\adamk\source\repos\Ransomware2.0\bin\Debug\Ransomware2.0.exe
+C:\Users\adamk\source\repos\Ransomware2.0\bin\Debug\Ransomware2.0.pdb
+C:\Users\adamk\source\repos\Ransomware2.0\obj\Debug\Ransomware2.0.csprojAssemblyReference.cache
+C:\Users\adamk\source\repos\Ransomware2.0\obj\Debug\Ransomware2._0.UnReal.resources
+C:\Users\adamk\source\repos\Ransomware2.0\obj\Debug\Ransomware2._0.Properties.Resources.resources
+C:\Users\adamk\source\repos\Ransomware2.0\obj\Debug\Ransomware2.0.csproj.GenerateResource.cache
+C:\Users\adamk\source\repos\Ransomware2.0\obj\Debug\Ransomware2.0.csproj.CoreCompileInputs.cache
+C:\Users\adamk\source\repos\Ransomware2.0\obj\Debug\Ransomware2.0.exe
+C:\Users\adamk\source\repos\Ransomware2.0\obj\Debug\Ransomware2.0.pdb
